@@ -13,8 +13,8 @@ jobs:
         - uses: actions/checkout@v2
         - uses: kohrongying/readme-the-rss@master
           with:
-            max_post_count: "4"
-            feed_list: "https://dev.to/feed/cece132"
+            count: "4"
+            feed_url: "https://dev.to/feed/cece132"
         - name: Commit file changes
           run: |
               git config --global user.name 'candace'
