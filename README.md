@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XLUAGn0w6kTmcvWmOy/giphy.gif" width="180" height="180"/>
-  <h1>
-  Hey, I'm Candace!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 </div>
 
 
@@ -53,18 +50,7 @@
 - 👯 I’m looking to collaborate on: An API that takes characters, places, objects etc. from avatar the last air bender. 
 - 🤔 I’m looking for help with: Finding more information on the DevOps mindset
 - 💬 Ask me about: Anything Ruby on Rails!
-- 📫 How to reach me:   
-
-  <a href="https://www.linkedin.com/in/candace-eckels/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
-  </a>
-  
-  <a href='candace.eckels@gmail.com'>
-    candace.eckels@gmail.com
-  </a>
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:   <a href='candace.eckels@gmail.com'> candace.eckels@gmail.com </a>
 
 ---
 
