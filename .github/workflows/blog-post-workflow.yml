@@ -6,12 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/cece132"
+  build:
+    update-readme-with-blog:
+      name: Update this repos README with latest blog posts
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: gautamkrishnar/blog-post-workflow@master
+          with:
+            max_post_count: "4"
+            feed_list: "https://dev.to/feed/cece132"
+                  - name: Commit file changes
+          run: |
+              git config --global user.name 'candace'
+              git config --global user.email 'candace.eckels@gmail.com'
+              git add .
+              git diff --quiet --cached || git commit -m "Update README" 
+        - name: Push changes
+          uses: ad-m/github-push-action@master
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
