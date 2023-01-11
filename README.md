@@ -23,7 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original-wordmark.svg" title="RSpec" **alt="RSpec" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" **alt="heroku" width="40" height="40"/>
@@ -46,11 +45,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on: [The Jasmine Dragon](https://github.com/cece-132/jasmine_dragon)
-- 🌱 I’m currently learning: GraphQL and AWS
-- 👯 I’m looking to collaborate on: An API that takes characters, places, objects etc. from avatar the last air bender. 
-- 🤔 I’m looking for help with: Finding more information on the DevOps mindset
 - 💬 Ask me about: Anything Ruby on Rails!
-- 📫 How to reach me:   <a href='candace.eckels@gmail.com'> candace.eckels@gmail.com </a>
 
 ---
 
