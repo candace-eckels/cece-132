@@ -40,12 +40,10 @@
 
 </div>
   
-<div id="blog_posts" align="center">
   
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
-  
-</div>
+
 
 Here are some ideas to get you started:
 
