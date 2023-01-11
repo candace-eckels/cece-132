@@ -42,7 +42,8 @@
   
   
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Legacy Code](https://dev.to/cece132/legacy-code-2fj5)
+- [My Exploration of Service Oriented Architecture and Monoliths](https://dev.to/cece132/my-exploration-of-service-oriented-architecture-3fg4)
 <!-- BLOG-POST-LIST:END -->
 
 
