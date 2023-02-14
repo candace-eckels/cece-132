@@ -45,8 +45,8 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on: [The Jasmine Dragon](https://github.com/cece-132/jasmine_dragon)
-- 💬 Ask me about: Anything Ruby on Rails!
+- 🔭 I’m currently working on: [The Jasmine Dragon](https://github.com/cece-132/jasmine_dragon), Cleaning up my repositories and updating their README's
+- 💬 Ask me about: Anything Ruby on Rails, I am Open to Work!
 
 ---
 
