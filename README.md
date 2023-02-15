@@ -37,7 +37,7 @@
 
 <div id="stats" align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cece-132&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cece-132)](https://github.com/cece-132/github-contribution-stats/)
 
 </div>
 
