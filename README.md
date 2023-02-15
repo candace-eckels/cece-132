@@ -37,7 +37,7 @@
 
 <div id="stats" align="center">
   
-  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cece-132)](https://github.com/cece-132/github-contribution-stats/)
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cece-132)](https://github.com/cece-132?tab=repositories)
 
 </div>
 
