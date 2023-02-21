@@ -58,3 +58,7 @@
 - [Exploring GraphQL-Rails](https://dev.to/cece132/exploring-graphql-rails-35e9)
 - [Test Driven Development](https://dev.to/cece132/test-driven-development-1gb7)
 <!-- BLOG-POST-LIST:END -->
+
+### :woman_technologist: Advanced Projects :
+### :woman_technologist: Intermediate Projects :
+### :woman_technologist: Beginner Projects :
