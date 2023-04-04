@@ -53,10 +53,10 @@
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
+- [How did you know?](https://dev.to/cece132/how-did-you-know-e36)
 - [Inheritance and Modules](https://dev.to/cece132/inheritance-and-modules-28bf)
 - [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
 - [Re-Learn, Review, Recycle](https://dev.to/cece132/re-learn-review-recycle-22g9)
-- [Basic ActiveRecord Methods](https://dev.to/cece132/back-to-basics-5c1h)
 <!-- BLOG-POST-LIST:END -->
 
 ### :woman_technologist: Advanced Projects :
