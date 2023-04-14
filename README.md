@@ -53,10 +53,10 @@
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
+- [Futbol and a plain ruby project](https://dev.to/cece132/ruby-project-3308)
 - [How did you know?](https://dev.to/cece132/how-did-you-know-e36)
 - [Inheritance and Modules](https://dev.to/cece132/inheritance-and-modules-28bf)
 - [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
-- [Re-Learn, Review, Recycle](https://dev.to/cece132/re-learn-review-recycle-22g9)
 <!-- BLOG-POST-LIST:END -->
 
 ### :woman_technologist: Advanced Projects :
