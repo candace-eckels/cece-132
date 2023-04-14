@@ -63,4 +63,4 @@
 ### :woman_technologist: Intermediate Projects :
 ### :woman_technologist: Beginner Projects :
 - [War Or Peace](https://github.com/cece-132/war_or_peace)
-- [futbol](https://github.com/cece-132/futbol)
+- [Futbol](https://github.com/cece-132/futbol)
