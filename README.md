@@ -16,34 +16,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" **alt="heroku" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <a href="https://www.linkedin.com/in/candace-eckels/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a> 
 </div>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
-
-<div align="center">
-
-</div>
-
----
-
-### :fire: My Stats :
-
-<div id="stats" align="center">
-  
-  [![Contribution Stats](https://github-readme-stats.vercel.app/api?username=cece-132&show_icons=true&theme=radical)](https://github.com/cece-132?tab=repositories)
-
-</div>
-
----
-
-### :woman_technologist: About Me :
-
 <div id="info" align="center">
   
+ ### :woman_technologist: About Me :
+ 
 🔭 I’m currently working on: Refactoring projects, beginning a new project <br>
 💬 I am currently exploring how to improve documentation, and ways to better communicate across teams. <br>
 🦹🏽‍♀️ Personally, I am really into anime, personal and professional development books, and taking computers apart 🤪, <br> <br>
