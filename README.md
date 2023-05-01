@@ -45,11 +45,11 @@
 
 ### :woman_technologist: About Me :
 
-<div id="stats" align="center">
+<div id="info" align="center">
   
-- 🔭 I’m currently working on: Refactoring projects, beginning a new project
-- 💬 I am currently exploring how to improve documentation, and ways to better communicate across teams. 
-- 🦹🏽‍♀️ Personally, I am really into anime, personal and professional development books, and taking computers apart 🤪 
+🔭 I’m currently working on: Refactoring projects, beginning a new project <br>
+💬 I am currently exploring how to improve documentation, and ways to better communicate across teams. <br>
+🦹🏽‍♀️ Personally, I am really into anime, personal and professional development books, and taking computers apart 🤪 <br>
   
 </div>
 
@@ -65,6 +65,27 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+<table border="3">
+ <tr>
+    <td><b style="font-size:30px">:woman_technologist: Favorite Ruby on Rails Projects :</b></td>
+    <td><b style="font-size:30px">:woman_technologist: Favorite Graphql Projects :</b></td>
+ </tr>
+ <tr>
+    <td>
+      - [jasmine_dragon](https://github.com/cece-132/jasmine_dragon) <br>
+      - [Trip Weather FE](https://github.com/TripWeather/trip_weather_fe) <br>
+      - [rails-engine](https://github.com/cece-132/rails-engine) <br>
+      - [rails_engine_fe](https://github.com/cece-132/rails_engine_fe) <br>
+      - [Futbol](https://github.com/cece-132/futbol) <br>
+      - [relational_rails_aurora_district](https://github.com/cece-132/relational_rails_aurora_district) <br>
+   </td>
+    <td>
+      [Equillibrium](https://github.com/IOTNBO-Capstone/IOTNBO-BE) <br>
+      [jasmine_dragon_graphql](https://github.com/cece-132/jasmine_dragon_graphql) <br>
+   </td>
+ </tr>
+</table>
 
 ### :woman_technologist: Favorite Ruby on Rails Projects :
 - [jasmine_dragon](https://github.com/cece-132/jasmine_dragon)
