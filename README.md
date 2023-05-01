@@ -20,7 +20,7 @@
 
 <div id="info" align="center">
   
-## :woman_technologist: About Me :
+## 👩🏽‍💻 About Me :
  
 🔭 I’m currently working on: Refactoring projects, beginning a new project <br>
 💬 I am currently exploring how to improve documentation, and ways to better communicate across teams. <br>
