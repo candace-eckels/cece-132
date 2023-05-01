@@ -49,7 +49,8 @@
   
 🔭 I’m currently working on: Refactoring projects, beginning a new project <br>
 💬 I am currently exploring how to improve documentation, and ways to better communicate across teams. <br>
-🦹🏽‍♀️ Personally, I am really into anime, personal and professional development books, and taking computers apart 🤪 <br>
+🦹🏽‍♀️ Personally, I am really into anime, personal and professional development books, and taking computers apart 🤪, <br> <br>
+***I also write a blog in my spare time that you can checkout below!*** <br>
   
 <!-- BLOG-POST-LIST:START -->
 [Futbol and a plain ruby project](https://dev.to/cece132/ruby-project-3308) <br>
