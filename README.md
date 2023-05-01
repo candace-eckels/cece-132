@@ -55,48 +55,36 @@
 
 ---
 
-### :writing_hand: Blog Posts :
-  
-<!-- BLOG-POST-LIST:START -->
-- [Futbol and a plain ruby project](https://dev.to/cece132/ruby-project-3308)
-- [How did you know?](https://dev.to/cece132/how-did-you-know-e36)
-- [Inheritance and Modules](https://dev.to/cece132/inheritance-and-modules-28bf)
-- [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
-<!-- BLOG-POST-LIST:END -->
-
----
+<div id="table" align="center">
 
 <table border="3">
  <tr>
+    <td><b style="font-size:30px">:writing_hand: Blog Posts :</b></td>
     <td><b style="font-size:30px">:woman_technologist: Favorite Ruby on Rails Projects :</b></td>
     <td><b style="font-size:30px">:woman_technologist: Favorite Graphql Projects :</b></td>
  </tr>
  <tr>
-    <td>
-      - [jasmine_dragon](https://github.com/cece-132/jasmine_dragon) <br>
-      - [Trip Weather FE](https://github.com/TripWeather/trip_weather_fe) <br>
-      - [rails-engine](https://github.com/cece-132/rails-engine) <br>
-      - [rails_engine_fe](https://github.com/cece-132/rails_engine_fe) <br>
-      - [Futbol](https://github.com/cece-132/futbol) <br>
-      - [relational_rails_aurora_district](https://github.com/cece-132/relational_rails_aurora_district) <br>
+   <td>
+     <!-- BLOG-POST-LIST:START -->
+       <a href="https://dev.to/cece132/ruby-project-3308">Futbol and a plain ruby project</a> <br>
+       <a href="https://dev.to/cece132/how-did-you-know-e36">How did you know?</a> <br> 
+       <a href="https://dev.to/cece132/inheritance-and-modules-28bf">Inheritance and Modules</a> <br> 
+       <a href="https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153">Documentation...What do people NEED to know!?</a> <br> 
+      <!-- BLOG-POST-LIST:END -->
    </td>
     <td>
-      [Equillibrium](https://github.com/IOTNBO-Capstone/IOTNBO-BE) <br>
-      [jasmine_dragon_graphql](https://github.com/cece-132/jasmine_dragon_graphql) <br>
+      <a href="https://github.com/cece-132/jasmine_dragon">Jasmine Dragon</a> <br>
+      <a href="https://github.com/cece-132TripWeather/trip_weather_fe">Trip Weather FE</a> <br>
+      <a href="https://github.com/cece-132/rails-engine">Rails Engine</a> <br>
+      <a href="https://github.com/cece-132/rails_engine_fe">Rails Engine FE</a> <br>
+      <a href="https://github.com/cece-132/futbol">Futbol</a> <br>
+      <a href="https://github.com/cece-132/relational_rails_aurora_district">Relational Rails Aurora District</a> <br>      
+   </td>
+    <td>
+      <a href="https://github.com/cece-132/IOTNBO-Capstone/IOTNBO-BE">Equillibrium</a> <br>
+      <a href="https://github.com/cece-132/jasmine_dragon_graphql">Jasmine Dragon Graphql</a> <br>
    </td>
  </tr>
 </table>
-
-### :woman_technologist: Favorite Ruby on Rails Projects :
-- [jasmine_dragon](https://github.com/cece-132/jasmine_dragon)
-- [Trip Weather FE](https://github.com/TripWeather/trip_weather_fe)
-- [rails-engine](https://github.com/cece-132/rails-engine)
-- [rails_engine_fe](https://github.com/cece-132/rails_engine_fe)
-- [Futbol](https://github.com/cece-132/futbol)
-- [relational_rails_aurora_district](https://github.com/cece-132/relational_rails_aurora_district)
-
----
-
-### :woman_technologist: Favorite Graphql Projects :
-- [Equillibrium](https://github.com/IOTNBO-Capstone/IOTNBO-BE)
-- [jasmine_dragon_graphql](https://github.com/cece-132/jasmine_dragon_graphql)
+ 
+</div>
