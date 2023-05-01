@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/XLUAGn0w6kTmcvWmOy/giphy.gif" width="180" height="180"/>
-
+<div style="display: flex; flex-direction: row;" align="center">
+ <img class="img" src="https://media.giphy.com/media/XLUAGn0w6kTmcvWmOy/giphy.gif" width="180" height="180" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=cece-132&show_icons=true&theme=radical" />
 </div>
 
 
