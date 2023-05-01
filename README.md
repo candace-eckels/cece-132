@@ -66,11 +66,11 @@
  <tr>
    <td>
      <!-- BLOG-POST-LIST:START -->
-       <a href="https://dev.to/cece132/ruby-project-3308">Futbol and a plain ruby project</a> <br>
-       <a href="https://dev.to/cece132/how-did-you-know-e36">How did you know?</a> <br> 
-       <a href="https://dev.to/cece132/inheritance-and-modules-28bf">Inheritance and Modules</a> <br> 
-       <a href="https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153">Documentation...What do people NEED to know!?</a> <br> 
-      <!-- BLOG-POST-LIST:END -->
+- [Futbol and a plain ruby project](https://dev.to/cece132/ruby-project-3308)
+- [How did you know?](https://dev.to/cece132/how-did-you-know-e36)
+- [Inheritance and Modules](https://dev.to/cece132/inheritance-and-modules-28bf)
+- [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
+<!-- BLOG-POST-LIST:END -->
    </td>
     <td>
       <a href="https://github.com/cece-132/jasmine_dragon">Jasmine Dragon</a> <br>
