@@ -51,6 +51,13 @@
 💬 I am currently exploring how to improve documentation, and ways to better communicate across teams. <br>
 🦹🏽‍♀️ Personally, I am really into anime, personal and professional development books, and taking computers apart 🤪 <br>
   
+<!-- BLOG-POST-LIST:START -->
+[Futbol and a plain ruby project](https://dev.to/cece132/ruby-project-3308) <br>
+[How did you know?](https://dev.to/cece132/how-did-you-know-e36) <br>
+[Inheritance and Modules](https://dev.to/cece132/inheritance-and-modules-28bf) <br>
+[Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153) <br>
+<!-- BLOG-POST-LIST:END -->
+  
 </div>
 
 ---
@@ -59,19 +66,10 @@
 
 <table border="3">
  <tr>
-    <td><b style="font-size:30px">:writing_hand: Blog Posts :</b></td>
     <td><b style="font-size:30px">:woman_technologist: Favorite Ruby on Rails Projects :</b></td>
     <td><b style="font-size:30px">:woman_technologist: Favorite Graphql Projects :</b></td>
  </tr>
  <tr>
-   <td>
-     <!-- BLOG-POST-LIST:START -->
-- [Futbol and a plain ruby project](https://dev.to/cece132/ruby-project-3308)
-- [How did you know?](https://dev.to/cece132/how-did-you-know-e36)
-- [Inheritance and Modules](https://dev.to/cece132/inheritance-and-modules-28bf)
-- [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
-<!-- BLOG-POST-LIST:END -->
-   </td>
     <td>
       <a href="https://github.com/cece-132/jasmine_dragon">Jasmine Dragon</a> <br>
       <a href="https://github.com/cece-132TripWeather/trip_weather_fe">Trip Weather FE</a> <br>
