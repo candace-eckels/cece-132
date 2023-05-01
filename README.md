@@ -3,6 +3,7 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=cece-132&show_icons=true&theme=radical" />
 </div>
 
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/candace-eckels/">
