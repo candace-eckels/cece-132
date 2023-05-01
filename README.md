@@ -48,7 +48,8 @@
 <div id="stats" align="center">
   
 - 🔭 I’m currently working on: Refactoring projects, beginning a new project
-- 💬 Ask me about: Anything Ruby on Rails, I am Open to Work!
+- 💬 I am currently exploring how to improve documentation, and ways to better communicate across teams. 
+- 🦹🏽‍♀️ Personally, I am really into anime, personal and professional development books, and taking computers apart 🤪 
   
 </div>
 
@@ -65,29 +66,16 @@
 
 ---
 
-### :woman_technologist: Advanced Projects :
-- [Equillibrium](https://github.com/IOTNBO-Capstone/IOTNBO-BE)
+### :woman_technologist: Favorite Ruby on Rails Projects :
 - [jasmine_dragon](https://github.com/cece-132/jasmine_dragon)
-- [jasmine_dragon_graphql](https://github.com/cece-132/jasmine_dragon_graphql)
 - [Trip Weather FE](https://github.com/TripWeather/trip_weather_fe)
-
----
-
-### :woman_technologist: Intermediate Projects :
 - [rails-engine](https://github.com/cece-132/rails-engine)
 - [rails_engine_fe](https://github.com/cece-132/rails_engine_fe)
-- [lunch_and_learn](https://github.com/cece-132/lunch_and_learn)
-- [viewing_party_lite](https://github.com/cece-132/viewing_party_lite)
-- [little-esty-shop](https://github.com/cece-132/little-esty-shop)
-- [adopt_dont_shop](https://github.com/cece-132/adopt_dont_shop)
+- [Futbol](https://github.com/cece-132/futbol)
 - [relational_rails_aurora_district](https://github.com/cece-132/relational_rails_aurora_district)
 
 ---
 
-### :woman_technologist: Beginner Projects :
-- [War Or Peace](https://github.com/cece-132/war_or_peace)
-- [Futbol](https://github.com/cece-132/futbol)
-- [NightWriter](https://github.com/cece-132/NightWriter)
-- [BattleShip](https://github.com/cece-132/BattleShip)
-- [black_thursday](https://github.com/cece-132/black_thursday)
-- [enigma](https://github.com/cece-132/enigma)
+### :woman_technologist: Favorite Graphql Projects :
+- [Equillibrium](https://github.com/IOTNBO-Capstone/IOTNBO-BE)
+- [jasmine_dragon_graphql](https://github.com/cece-132/jasmine_dragon_graphql)
