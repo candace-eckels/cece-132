@@ -19,13 +19,8 @@
 
 
 <div id="info" align="center">
-  
-## 👩🏽‍💻 About Me :
  
-🔭 I’m currently working on: Refactoring projects, beginning a new project <br>
-💬 I am currently exploring how to improve documentation, and ways to better communicate across teams. <br>
-🦹🏽‍♀️ Personally, I am really into anime, personal and professional development books, and taking computers apart 🤪, <br> <br>
-***I also write a blog in my spare time that you can checkout below!*** <br>
+💬 I'm passionate about documentation and explaining complicated topics and technologies in a way that everyone can understand! <br> <br> <br>
   
 <!-- BLOG-POST-LIST:START -->
 - [Futbol and a plain ruby project](https://dev.to/cece132/ruby-project-3308)
@@ -34,31 +29,4 @@
 - [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
 <!-- BLOG-POST-LIST:END -->
   
-</div>
-
----
-
-<div id="table" align="center">
-
-<table border="3">
- <tr>
-    <td><b style="font-size:30px">:woman_technologist: Favorite Ruby on Rails Projects :</b></td>
-    <td><b style="font-size:30px">:woman_technologist: Favorite Graphql Projects :</b></td>
- </tr>
- <tr>
-    <td>
-      <a href="https://github.com/cece-132/jasmine_dragon">Jasmine Dragon</a> <br>
-      <a href="https://github.com/cece-132TripWeather/trip_weather_fe">Trip Weather FE</a> <br>
-      <a href="https://github.com/cece-132/rails-engine">Rails Engine</a> <br>
-      <a href="https://github.com/cece-132/rails_engine_fe">Rails Engine FE</a> <br>
-      <a href="https://github.com/cece-132/futbol">Futbol</a> <br>
-      <a href="https://github.com/cece-132/relational_rails_aurora_district">Relational Rails Aurora District</a> <br>      
-   </td>
-    <td>
-      <a href="https://github.com/cece-132/IOTNBO-Capstone/IOTNBO-BE">Equillibrium</a> <br>
-      <a href="https://github.com/cece-132/jasmine_dragon_graphql">Jasmine Dragon Graphql</a> <br>
-   </td>
- </tr>
-</table>
- 
 </div>
