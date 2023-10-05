@@ -31,10 +31,10 @@
 <h4> Blog Posts </h4>
   
 <!-- BLOG-POST-LIST:START -->
+- [Algorithms](https://dev.to/cece132/algorithms-2f23)
 - [Futbol and a plain ruby project](https://dev.to/cece132/ruby-project-3308)
 - [How did you know?](https://dev.to/cece132/how-did-you-know-e36)
 - [Inheritance and Modules](https://dev.to/cece132/inheritance-and-modules-28bf)
-- [Documentation...What do people NEED to know!?](https://dev.to/cece132/documentationwhat-do-people-need-to-know-2153)
 <!-- BLOG-POST-LIST:END -->
   
 </div>
